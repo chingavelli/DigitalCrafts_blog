@@ -1,0 +1,26 @@
+<!DOCTYPE html >
+<html>
+    <head>
+        <title> DigitalCrafts </title>
+        <link rel="stylesheet" href="style.css" />
+    
+    </head>
+    <body>
+        <div class= "container" >
+            <header>
+                <div class="column container">
+                
+        <div class= "header.left" div>
+            <img src="logo.pgn" />
+            <span> DigitalCrafts </span>
+        </div>    
+        <div class= "header.right" div>
+            <a> All Post </a>
+            <a> About </a>
+            <a> Follow </a>
+
+
+    </body>
+    <footer>
+    </footer>
+</html>
