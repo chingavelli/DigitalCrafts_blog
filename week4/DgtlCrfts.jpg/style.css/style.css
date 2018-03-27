@@ -1,0 +1,45 @@
+Body {
+    margin: 0px;
+    padding: 0px;
+
+
+}
+
+.section1 {
+    height: 600px;
+    background-image: url("img/atl.png")
+    background-size: cover;
+
+}
+
+.section-container {
+    width: 960;
+    margin: 0 auto;
+
+}
+
+.navbar {
+    color: #FFFFFF
+    font-family : Arial:
+
+}
+
+.tagline {
+    text-align: center;
+    font-family: Arial;
+
+
+}
+
+.tagline img {
+    text-align: center;
+    font-family: Arial;
+    margin-top: 110;
+
+
+}
+
+.tagline img {
+    
+
+}
